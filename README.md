@@ -2,6 +2,8 @@
 
 An AI-powered task manager that uses Google's Gemini to extract tasks from text, URLs, and screenshots. The application proactively scans content for events, deadlines, and actionable items, suggesting them as tasks for you to manage.
 
+This is a learning project built to practice and demonstrate the implementation of agentic AI systems, showcasing how AI agents can interact with tools and manage tasks autonomously.
+
 ## Features
 
 - **Natural Language Interface**: Chat with the AI assistant to manage your tasks
