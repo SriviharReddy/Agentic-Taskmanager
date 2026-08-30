@@ -1,8 +1,0 @@
-streamlit
-langchain
-langchain-google-genai
-langchain-community
-easyocr
-trafilatura
-requests
-python-dotenv

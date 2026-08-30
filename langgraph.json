@@ -1,0 +1,9 @@
+{
+  "$schema": "https://langgra.ph/schema.json",
+  "dependencies": ["."],
+  "graphs": {
+    "ingestion": "./backend/app/graphs/ingestion_graph.py:ingestion_graph",
+    "copilot": "./backend/app/graphs/copilot_graph.py:copilot_graph"
+  },
+  "env": ".env"
+}
